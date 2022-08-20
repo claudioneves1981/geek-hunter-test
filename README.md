@@ -58,11 +58,11 @@ Formato de Saída (todas as linhas de saída devem ser convertidas para o tipo "
 
 Exemplo de entrada:
 
-4
-5
-bebidas 150
-entrada 100
-principal 400
-sobremesa 300
-reserva 40
-bebidas reserva
+    4
+    5
+    bebidas 150
+    entrada 100
+    principal 400
+    sobremesa 300
+    reserva 40
+    bebidas reserva
